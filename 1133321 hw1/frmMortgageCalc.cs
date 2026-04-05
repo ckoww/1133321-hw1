@@ -146,5 +146,5 @@ namespace _1133321_hw1
 
             rdoPercent.Checked = true;
         }
-    }
+    } 
 }
